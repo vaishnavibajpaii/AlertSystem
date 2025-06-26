@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertSender", "AlertSystem\AlertSender.csproj", "{3599DBE7-8724-4484-9D14-5B2E3B5D70AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlertSystem", "AlertSystem\AlertSystem.csproj", "{3599DBE7-8724-4484-9D14-5B2E3B5D70AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
