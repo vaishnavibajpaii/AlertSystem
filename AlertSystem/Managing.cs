@@ -12,6 +12,7 @@ namespace AlertSystem
 {
     class Managing
     {
+
         private const string connectionString = "Endpoint=sb://eventhubkallwik.servicebus.windows.net/;SharedAccessKeyName=Eventpolicy;SharedAccessKey=YMs/K6WRFJY0jZpFBHp8ZhW3NXpAhZ65a+AEhKpf2Zg=;EntityPath=alertevent";
         private const string eventHubName = "alertevent";
         private static readonly Random random = new Random();
